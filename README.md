@@ -1039,6 +1039,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [itsdangerous](https://github.com/mitsuhiko/itsdangerous) - Various helpers to pass trusted data to untrusted environments.
 * [blinker](https://github.com/jek/blinker) - A fast Python in-process signal/event dispatching system.
 * [Pychievements](https://github.com/PacketPerception/pychievements) - A framework for creating and tracking achievements.
+* [tqdm](https://github.com/tqdm/tqdm) - A fast, extensible progress bar for Python
 
 ## Algorithms and Design Patterns
 
